@@ -4,8 +4,8 @@ I have been asked by a lot of folks about Open Source Contributions, and a way t
 times my answer to them were "hand wavy", today I would like to guide them with something more tangible.
 
 Keras NLP now has an integration with Hugging Face. This means, you can load a model from Hugging Face Hub in
-your Keras NLP pipeline. The problem with the integration is that, you there needs to be a conversion script
-exclusive to all the models in KerasNLP.
+your Keras NLP pipeline. The problem with the integration is that, there needs to be a conversion script
+**exclusive** to all the models in KerasNLP.
 
 From the official [announcement](https://huggingface.co/blog/keras-nlp-integration):
 
